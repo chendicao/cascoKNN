@@ -1,6 +1,7 @@
 # Anomaly Detection on Subway Operational Data 
-This is my intern project in CASCO Shanghai, China. It is implemented and modified based on the [pyod]. 
-This project add a new model called cascoKNN to process CASCO subway operational indicator data. 
+-This is my intern project in CASCO Shanghai, China. 
+-It is implemented and modified based on the [pyod]. 
+-This project add a new model called cascoKNN to process CASCO subway operational indicator data. 
  
 ![](/examples/KNN.png)
 
