@@ -1,4 +1,4 @@
-# Anomaly Detection on Subway Operational Data. 
+# Anomaly Detection on Subway Operational Data 
 This is my intern project in CASCO Shanghai, China. It is implemented based on the [pyod].
  
 ![](/examples/KNN.png)
@@ -7,7 +7,7 @@ This is my intern project in CASCO Shanghai, China. It is implemented based on t
 You need to checkout the dependency requirements for [pyod]. 
 
 ## Installation 
-At this point, you should installed all the dependency for [pyod]
+At this point, you should installed all the dependency for [pyod].
 ```sh
 git clone https://github.com/paragon520/Pyod_CASCO 
 cd Pyod_CASCO
