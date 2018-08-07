@@ -153,7 +153,7 @@ if __name__ == "__main__":
 # Get data from CASCO oracle database
 # 2017.8.6 Chendi Cao 
     X_train, y_train, X_test, y_test = \
-        readFile("data/dest30.txt",n_train,n_test )
+        readFile("data/train30.txt",n_train,n_test )
 	
     # train kNN detector
     clf_name = 'KNN'
