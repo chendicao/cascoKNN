@@ -3,15 +3,22 @@ This is my intern project in CASCO Shanghai, China. It is implemented based on t
  
 ![](/examples/KNN.png)
 
-## Prerequisites
-You need to checkout the dependency requirements for [pyod]. 
-
 ## Installation 
-At this point, you should installed all the dependency for [pyod].
+For more information, check out [pyod].
 ```sh
 git clone https://github.com/paragon520/Pyod_CASCO 
 cd Pyod_CASCO
+python setup.py install
+
 ``` 
+## Required Dependency
+Python 2.7, 3.4, 3.5 or 3.6
+numpy>=1.13
+scipy>=0.19.1
+scikit_learn>=0.19.1
+matplotlib
+nose
+
 
 ## Test and run  
 
@@ -25,5 +32,8 @@ python cascoKNN_example.py
 ROC value and &rank will be printed on the cmd.
 You can also save the scatter plots to png file.
  
+## Credits
+All the credits goes to  [yzhao062] .
 
- [pyod]: https://github.com/paragon520/Pyod
+ [pyod]: https://github.com/yzhao062/Pyod
+[yzhao062]: https://github.com/yzhao062/Pyod
