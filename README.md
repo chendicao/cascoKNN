@@ -12,13 +12,12 @@ python setup.py install
 
 ``` 
 ## Required Dependency
-Python 2.7, 3.4, 3.5 or 3.6
-numpy>=1.13
-scipy>=0.19.1
-scikit_learn>=0.19.1
-matplotlib
-nose
-
+- Python 2.7, 3.4, 3.5 or 3.6
+- numpy>=1.13
+- scipy>=0.19.1
+- scikit_learn>=0.19.1
+- matplotlib                      
+- nose   
 
 ## Test and run  
 
