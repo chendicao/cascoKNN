@@ -34,7 +34,7 @@ python cascoKNN_example.py
 - You can also save the scatter plots to png file.
  
 ## Credits
-All the credits goes to  [yzhao062] . Thanks for providing such a nice toolkit for anomaly detection model.
+The pyod toolkit credits goes to  [yzhao062] . Thanks for providing such a nice toolkit for anomaly detection model.
 
  [pyod]: https://github.com/yzhao062/Pyod
 [yzhao062]: https://github.com/yzhao062/Pyod
