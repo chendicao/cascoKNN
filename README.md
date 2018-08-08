@@ -1,5 +1,5 @@
 # Anomaly Detection on Subway Operational Data 
-- This is my intern project working in CASCO Shanghai, China, Summer 2018. 
+- This is mini project during my internship in CASCO Shanghai, China, Summer 2018. 
 - This project is implemented and modified based on the python anomaly detection tooklit [pyod]. 
 - I created a new model called cascoKNN to process CASCO subway operational indicator data. 
  
